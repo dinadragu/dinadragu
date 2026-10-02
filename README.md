@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dinesh Kumar R 👋
 
-<!--
-**dinadragu/dinadragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Penetration Tester / Security Analyst** from India, moving into cybersecurity after 4+ years as a software engineer.
 
-Here are some ideas to get you started:
+## 🎓 Training
+- Advanced Executive Program in Cybersecurity, IIIT Bangalore (Simplilearn)
+- Focus areas: Ethical Hacking & VAPT, Web Application Security, Blue Team Detection & Response, Malware Analysis, AI-Enhanced Red Team Tactics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I work with
+Kali Linux · Nmap · Wireshark · Burp Suite · Nessus · Splunk · SIEM · Metasploit · OWASP ZAP · Nikto · FTK Imager
+
+## 📂 What you'll find here
+- Web application penetration testing and vulnerability assessments
+- Windows logon monitoring with PowerShell and Event Viewer
+- AI-augmented SOC lab (SIEM, XDR, EDR, SOAR)
+- Digital forensics and steganography
+- Command injection and perimeter evasion labs
+
+## 📫 Connect with me
+[LinkedIn](YOUR-LINKEDIN-URL) · dinadragu@gmail.com
+
+*All work here comes from lab environments built for learning.*
