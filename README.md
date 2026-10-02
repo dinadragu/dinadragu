@@ -17,6 +17,6 @@ Kali Linux · Nmap · Wireshark · Burp Suite · Nessus · Splunk · SIEM · Met
 - Command injection and perimeter evasion labs
 
 ## 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/dinadragu) · dinadragu@gmail.com
+[LinkedIn] (www.linkedin.com/in/dinadragu) · dinadragu@gmail.com
 
 *All work here comes from lab environments built for learning.*
